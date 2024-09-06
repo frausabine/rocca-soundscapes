@@ -1,11 +1,11 @@
 {
     "id": "flowchart-template",
-    "title": "Flowchart Template",
-    "subtitle": "Navigating and narrating complexity through exploration and storytelling",
+    "title": "Rocca Soundscapes",
+    "subtitle": "Navigate through the sounds of a 17th century villa",
     "colors": {
         "background-color": "#F2EEE6",
         "intro-background-color": "#FFFDFA",
         "text-color": "#4D5B80",
-        "accent-color": "#1C9E9E"
+        "accent-color": "#777777"
     }
 }
